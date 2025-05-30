@@ -41,4 +41,4 @@ I'll soon add steps to run the backend locally and deploy it to AWS.
 
 ## 🔗 Connect
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/manacy-k-r-761334242) for updates!
+Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/manacy-k-r-761334242) for updates!
